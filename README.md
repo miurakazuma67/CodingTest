@@ -1,5 +1,6 @@
 ## フォルダ構成
 
+```
 tests
 ├── coding-test01            # 第1問
 │   ├── in                  # 入力データを格納
@@ -34,6 +35,7 @@ tests
 │   │       └── 00_sample2.out
 │   ├── main.swift
 │   └── test_cases03.json
+```
 
 
 ## テスト手順
