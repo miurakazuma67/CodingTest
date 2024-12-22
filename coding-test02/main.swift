@@ -39,6 +39,10 @@ func main() {
     print(blackCount, whiteCount)
 }
 
+/// 石をひっくり返す処理
+/// - Parameters:
+///   - board: 石を配置する盤面
+///   - index: 何番目の石を置いたか
 func flipStones(on board: inout [Character], at index: Int) {
     let stone = board[index] // 現在配置した石の色を取得
 
