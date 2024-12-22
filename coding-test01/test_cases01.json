@@ -1,0 +1,14 @@
+[
+    {
+        "input" :"in/basic/00_sample1.in",
+        "output" :"out/basic/00_sample1.out",
+        "description" :"[基本実装] Aが10である場合に正答できる",
+        "description_en" :"[Basic Case] Correct when A is 10"    
+    },
+    {
+        "input" :"in/basic/00_sample2.in",
+        "output" :"out/basic/00_sample2.out",
+        "description" :"[基本実装] Aが13である場合に正答できる",
+        "description_en" :"[Basic Case] Correct when A is 13"
+    }  
+]    

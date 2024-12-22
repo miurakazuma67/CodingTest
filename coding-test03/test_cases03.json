@@ -1,0 +1,14 @@
+[
+    {
+        "input" :"in/basic/00_sample1.in",
+        "output" :"out/basic/00_sample1.out",
+        "description" :"[基本実装] 201で正答できる",
+        "description_en" :"[Basic Case] The solution is correct for 201"    
+    },
+    {
+        "input" :"in/basic/00_sample2.in",
+        "output" :"out/basic/00_sample2.out",
+        "description" :"[大規模なデータ入力を扱う実装] 12212122212222で正答できる",
+        "description_en" :"[Large Case] The solution is correct for 12212122212222"
+    }  
+]    
