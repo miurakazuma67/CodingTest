@@ -25,16 +25,16 @@ tests
 │   ├── main.swift
 │   └── test_cases02.json
 ├── coding-test03            # 第3問
-│   ├── in
-│   │   └── basic
-│   │       ├── 00_sample1.in
-│   │       └── 00_sample2.in
-│   ├── out
-│   │   └── basic
-│   │       ├── 00_sample1.out
-│   │       └── 00_sample2.out
-│   ├── main.swift
-│   └── test_cases03.json
+    ├── in
+    │   └── basic
+    │       ├── 00_sample1.in
+    │       └── 00_sample2.in
+    ├── out
+    │   └── basic
+    │       ├── 00_sample1.out
+    │       └── 00_sample2.out
+    ├── main.swift
+    └── test_cases03.json
 ```
 
 
